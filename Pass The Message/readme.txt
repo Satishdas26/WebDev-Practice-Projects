@@ -1,1 +1,1 @@
-This is a website on passing the message.
+This is a simple website that passes the message.
